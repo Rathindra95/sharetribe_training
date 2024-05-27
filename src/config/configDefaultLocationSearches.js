@@ -47,5 +47,14 @@ const defaultLocations = [
   //     bounds: new LatLngBounds(new LatLng(66.16997, 29.16773), new LatLng(66.16095, 29.13572)),
   //   },
   // },
+
+  {
+    id: 'default-auckland',
+    predictionPlace: {
+      address: 'Auckland, New Zealand',
+      bounds: new LatLngBounds(new LatLng(-36.545, 175.298), new LatLng(-37.047,174.498)),
+    },
+  },
+  
 ];
 export default defaultLocations;
