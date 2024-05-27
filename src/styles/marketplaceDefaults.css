@@ -180,6 +180,8 @@
   /* ================ PageBuilder ================ */
   /* --carouselWidth will be updated dynamically through JS */
   --carouselWidth: 100vw;
+
+  --colorPastelPink: #fbf0ef;
 }
 
 /* ================ Global element styles ================ */
